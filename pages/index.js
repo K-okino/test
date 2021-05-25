@@ -1,9 +1,8 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-
 export default function Home() {
-  return (
-    <>やあ。</>
-  )
+<<<<<<< HEAD
+  return (<>
+    <p>藤澤の変更</p>
+    <p>私は何も変更していない！信じてくれ！</p>
+  </>)
+>>>>>>> 1b478ef0185226fa829c45c42256057a55b0df8e
 }
