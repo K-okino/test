@@ -5,4 +5,3 @@ export default function Home() {
     <p>榛葉の変更</p>)
   </>)
 }
-
