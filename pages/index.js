@@ -10,6 +10,7 @@ export default function Home() {
 =======
     <p>榮田の変更</p>
     <p>古庄の変更</p> 
+    <p>鹿間の変更</p>
   </>)
 }
 >>>>>>> 32ac24f6db3e1e66c1e91208d2ab988ce1457758
