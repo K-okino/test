@@ -11,3 +11,4 @@ export default function Home() {
     <p>沖野の変更よ♡</p>
     <p>ひらだよ</p>
   </>)
+}
