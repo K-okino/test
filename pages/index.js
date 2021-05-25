@@ -1,3 +1,4 @@
+import Link from 'next/link'
 export default function Home() {
   return (<>
     <p>藤澤の変更</p>
@@ -12,5 +13,6 @@ export default function Home() {
     <p>追加で変えた</p>
     <p>ひらだよ</p>
     <p>グリとグラ</p>
+    <p><Link href="/ryu">aaa</Link></p>
   </>)
 }

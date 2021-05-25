@@ -1,3 +1,4 @@
+/*
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -118,4 +119,63 @@
     width: 100%;
     flex-direction: column;
   }
+}
+*/
+
+
+
+
+.container{
+  background-color: darkkhaki;
+  height: 80px;
+  width: 1536px;
+  position:fixed;
+  top:0;
+  z-index:10;
+}
+
+.toukou{
+  background-color: yellow;
+  float: left;
+  height: 300px;
+  width: 250px;
+  position: fixed;
+  margin-top: 80px;
+}
+.btnNew{
+  background-color: white;
+  padding: 10px 30px;
+  margin: 30px 30px;
+  font-size: 30px;
+  text-align: center;
+}
+.search{
+  margin: 10px 20px;
+  margin-top:40px;
+  
+}
+.select{
+  margin: 10px 20px;
+}
+.main{
+  float:left;
+  background-color:lightskyblue;
+  height: 1000px;
+  width: 836px;
+  margin-left: 250px;
+  margin-top: 80px;
+}
+.keiji{
+  background-color: white;
+  margin: 0 50px;
+  height: 800px;
+}
+.kotei{
+  float: left;
+  background-color: mediumaquamarine;
+  height: 500px;
+  width: 450px;
+  position: fixed;
+  margin-left: 1086px;
+  margin-top: 80px;
 }
